@@ -1,0 +1,4 @@
+C:\Users\user1\Desktop\diploma\ConsoleAppiCsharp\CAEvulutionA\CAEvulutionA\bin\Debug\CAEvulutionA.exe
+C:\Users\user1\Desktop\diploma\ConsoleAppiCsharp\CAEvulutionA\CAEvulutionA\bin\Debug\CAEvulutionA.pdb
+C:\Users\user1\Desktop\diploma\ConsoleAppiCsharp\CAEvulutionA\CAEvulutionA\obj\x86\Debug\CAEvulutionA.exe
+C:\Users\user1\Desktop\diploma\ConsoleAppiCsharp\CAEvulutionA\CAEvulutionA\obj\x86\Debug\CAEvulutionA.pdb
